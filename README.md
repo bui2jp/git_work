@@ -28,6 +28,13 @@ git用のディレクトに移動する
     
     no changes added to commit (use "git add" and/or "git commit -a")
 
-# 5. branch
+# 5. git push
+`git push`
+
+# 6. git clone 
+(github からcloneを作成する)
+`git clone https://github.com/bui2jp/git_work`
+
+# 6. branch
 
 
